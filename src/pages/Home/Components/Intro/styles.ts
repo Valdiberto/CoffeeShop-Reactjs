@@ -3,6 +3,9 @@ import { styled } from 'styled-components'
 export const IntroContainer = styled.div`
   display: flex;
   margin: 5.75rem auto;
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
 `
 export const IntroLeftContainer = styled.div`
   margin-right: 3.5rem;

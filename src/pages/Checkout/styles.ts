@@ -2,6 +2,9 @@ import { styled } from 'styled-components'
 
 export const CheckoutContainer = styled.main`
   display: 1;
+  width: 100%;
+  max-width: 1120px;
+  margin: 0 auto;
   header {
     font-size: 1.125rem;
     margin-bottom: 0.9375rem;
